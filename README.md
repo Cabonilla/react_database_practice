@@ -9,3 +9,4 @@ A simple sandbox for using and practicing HTTP requests.
 * Handled async/await requests. 
 * Dealt with HTTP errors. 
 * Funneled HTTP requests using basic React apps. 
+* Using Firebase for data handling and storage. 
